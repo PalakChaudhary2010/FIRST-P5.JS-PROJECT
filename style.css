@@ -1,0 +1,9 @@
+body{
+    background-color: yellow;
+    text-align: center;
+}
+
+canvas{
+    border: dashed 4px;
+    color: red;
+}
